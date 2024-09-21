@@ -1,6 +1,5 @@
 import asyncio
 
-from assistant import Assistant
 from pool import AssistantPool
 
 pool = AssistantPool()
